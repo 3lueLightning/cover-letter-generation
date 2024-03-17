@@ -1,0 +1,33 @@
+{
+  "template": "https://github.com/3lueLightning/data_science_project_template",
+  "commit": "3f7654c12e96dfd517bb2c69209e1b997b96a129",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "cover-letter-generation",
+      "repo_name": "cover-letter-generation",
+      "github_username": "3lueLightning",
+      "author_name": "Diogo",
+      "author_email": "peter.parker@web.com",
+      "description": "cover letter creation",
+      "compatible_python_versions": "3.12",
+      "mkdocs": true,
+      "codecov": true,
+      "license": "Not open source",
+      "_copy_without_render": [
+        ".code_quality/*",
+        ".vscode/*",
+        "config/*",
+        "data/*",
+        "src/*",
+        "tests/*",
+        ".editorconfig",
+        ".pre-commit-config.yaml",
+        "codecov.yaml",
+        "docs/*"
+      ],
+      "_template": "https://github.com/3lueLightning/data_science_project_template"
+    }
+  },
+  "directory": null
+}
